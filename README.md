@@ -49,3 +49,7 @@ RFC 是 Request for Comments 首字母的缩写，字面意思是“请求注解
 * RFC-2773
   * 原文：[Encryption using KEA and SKIPJACK](https://www.ietf.org/rfc/rfc2773.txt)
   * 译文：[使用KEA和SKIPJACK加密](rfc-2773-cn.pdf)
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
